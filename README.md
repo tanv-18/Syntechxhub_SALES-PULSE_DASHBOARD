@@ -154,9 +154,7 @@ The following preprocessing steps were performed before dashboard development:
 
 ## 🏠 Sales Analytics Dashboard
 
-[```markdown
 ![Sales Forecast Dashboard](https://github.com/tanv-18/Syntechxhub_SALES-PULSE_DASHBOARD/blob/main/Sales%20Analytics%20Dashboard.png)
-```]
 
 ### Highlights:
 
@@ -168,9 +166,7 @@ The following preprocessing steps were performed before dashboard development:
 
 ## 📈 Sales Forecast Dashboard
 
-[```markdown
 ![Sales Analytics Dashboard](https://github.com/tanv-18/Syntechxhub_SALES-PULSE_DASHBOARD/blob/main/Sales%20Forecast.png)
-```]
 
 ### Highlights:
 
