@@ -153,9 +153,10 @@ The following preprocessing steps were performed before dashboard development:
 # 6. 📸 Dashboard Screenshots
 
 ## 🏠 Sales Analytics Dashboard
+
 [```markdown
-![Sales Forecast Dashboard](Sales Forecast.png)
-```](https://github.com/tanv-18/Syntechxhub_SALES-PULSE_DASHBOARD/blob/main/Sales%20Analytics%20Dashboard.png)
+![Sales Forecast Dashboard](https://github.com/tanv-18/Syntechxhub_SALES-PULSE_DASHBOARD/blob/main/Sales%20Analytics%20Dashboard.png)
+```]
 
 ### Highlights:
 
@@ -166,9 +167,10 @@ The following preprocessing steps were performed before dashboard development:
 * Monthly Sales & Profit Trends
 
 ## 📈 Sales Forecast Dashboard
+
 [```markdown
-![Sales Analytics Dashboard](Sales Analytics Dashboard.png)
-```](https://github.com/tanv-18/Syntechxhub_SALES-PULSE_DASHBOARD/blob/main/Sales%20Forecast.png)
+![Sales Analytics Dashboard](https://github.com/tanv-18/Syntechxhub_SALES-PULSE_DASHBOARD/blob/main/Sales%20Forecast.png)
+```]
 
 ### Highlights:
 
