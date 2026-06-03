@@ -170,9 +170,9 @@ The following preprocessing steps were performed before dashboard development:
 
 ## 📈 Sales Forecast Dashboard
 
-```markdown
+[```markdown
 ![Sales Forecast Dashboard](Sales Forecast.png)
-```
+```](https://github.com/tanv-18/Syntechxhub_SALES-PULSE_DASHBOARD/blob/main/Sales%20Analytics%20Dashboard.png)
 
 ### Highlights:
 
