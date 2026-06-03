@@ -153,10 +153,9 @@ The following preprocessing steps were performed before dashboard development:
 # 6. 📸 Dashboard Screenshots
 
 ## 🏠 Sales Analytics Dashboard
-
-```markdown
-![Sales Analytics Dashboard](Sales Analytics Dashboard.png)
-```
+[```markdown
+![Sales Forecast Dashboard](Sales Forecast.png)
+```](https://github.com/tanv-18/Syntechxhub_SALES-PULSE_DASHBOARD/blob/main/Sales%20Analytics%20Dashboard.png)
 
 ### Highlights:
 
@@ -166,13 +165,10 @@ The following preprocessing steps were performed before dashboard development:
 * Category & Sub-Category Insights
 * Monthly Sales & Profit Trends
 
----
-
 ## 📈 Sales Forecast Dashboard
-
 [```markdown
-![Sales Forecast Dashboard](Sales Forecast.png)
-```](https://github.com/tanv-18/Syntechxhub_SALES-PULSE_DASHBOARD/blob/main/Sales%20Analytics%20Dashboard.png)
+![Sales Analytics Dashboard](Sales Analytics Dashboard.png)
+```](https://github.com/tanv-18/Syntechxhub_SALES-PULSE_DASHBOARD/blob/main/Sales%20Forecast.png)
 
 ### Highlights:
 
@@ -200,9 +196,6 @@ Sales-Pulse-Dashboard/
 │
 └── Documentation/
     └── Project_Report.pdf
-```
-
----
 
 # 🏆 Project Outcome
 
@@ -222,20 +215,12 @@ The dashboard enables organizations to:
 
 ✅ Enhance business planning through forecasting
 
----
 
 # 👩‍💻 Author
 
-### Tanvi Raje
+### Tanvi Vishal Raje
 
-🎓 Electronics Engineering Student
-
+🎓 Artificial Intelligence & Data Science Student
 📊 Power BI & Data Analytics Enthusiast
-
 💡 Passionate about Business Intelligence, Data Visualization, and Predictive Analytics
 
----
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a **Star ⭐** on GitHub and sharing your feedback!
