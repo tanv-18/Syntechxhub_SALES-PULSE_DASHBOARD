@@ -1,4 +1,4 @@
-# Syntechxhub_SALES-PULSE_DASHBOARD
+# Syntecxhub_SALES-PULSE_DASHBOARD
 # 📊 Sales Pulse – Smart Sales Analytics Dashboard & Forecasting
 
 **An interactive Power BI dashboard designed to analyze sales performance, monitor key business KPIs, identify growth opportunities, and forecast future sales trends for data-driven decision-making.**
